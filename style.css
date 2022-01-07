@@ -1,0 +1,8 @@
+.flex-container {
+  display: flex;
+  justify-content: flex-end;
+}
+th,
+td {
+  border-bottom: 1px solid black;
+}
